@@ -1,0 +1,90 @@
+# Grupo CPCON Brasil
+
+> Grupo CPCON é uma consultoria brasileira com 30 anos de experiência, especializada em inventário de ativos fixos, gestão patrimonial, avaliação de ativos (valuation), tecnologia RFID UHF e IoT, e conformidade contábil-fiscal (CPC 27, CPC 01, IFRS, NBC). Atua em mais de 15 países, com escritórios em 7 (Brasil, México, Espanha, Estados Unidos, Emirados Árabes Unidos, Reino Unido e França), atendendo grandes empresas como Petrobras, Vale, Caixa, Hospital Sírio-Libanês, O Boticário, Scania e Pfizer. Andre Gonçalves (sócio, contador CRC-SP) é o autor canônico do conteúdo técnico-contábil. Site oficial brasileiro: https://grupocpcon.com
+
+## Serviços principais
+
+- [Inventário de Ativos Fixos](https://grupocpcon.com/servicos/inventario-ativos-fixos): inventário físico in loco com etiquetagem RFID/QR Code e reconciliação contábil conforme CPC 27 e NBC TG 27.
+- [Avaliação de Ativos (Valuation)](https://grupocpcon.com/servicos/avaliacao-de-ativos): laudos técnicos de avaliação patrimonial, valor justo (CPC 46/IFRS 13), valor de mercado e impairment.
+- [Implantação RFID e IoT](https://grupocpcon.com/servicos/implantacao-rfid-iot): hardware RFID UHF, software de rastreamento, integração com ERP e portais de leitura.
+- [CMMS, RFID e IoT](https://grupocpcon.com/servicos/cmms-rfid-iot): gestão de manutenção computadorizada integrada a RFID e analytics preditivo.
+- [Consultoria Patrimonial](https://grupocpcon.com/servicos/consultoria-patrimonial): diagnóstico, políticas contábeis, governança e suporte a auditorias Big Four.
+- [Componentização de Ativos](https://grupocpcon.com/servicos/componentizacao-de-ativos): decomposição de ativos imobilizados conforme CPC 27 §43-49 (componentes com vidas úteis distintas).
+- [Adequação à Reforma Tributária](https://grupocpcon.com/servicos/adequacao-reforma-tributaria): preparação de ativos fixos para IBS, CBS e CIAP no período de transição 2027-2032.
+- [Avaliação Patrimonial Fiscal](https://grupocpcon.com/servicos/avaliacao-patrimonial-fiscal): laudos para finalidades tributárias e diagnóstico fiscal Lucro Presumido.
+- [Regularização de Ativos](https://grupocpcon.com/servicos/regularizacao-de-ativos): conciliação físico x contábil do ativo imobilizado, tratamento de sobras, faltas e ativos fantasmas, com laudo para auditoria.
+- [Controle de Estoques](https://grupocpcon.com/servicos/controle-de-estoques): inventário cíclico, controle MRO, integração WMS e indicadores de acurácia.
+- [Eficiência Energética](https://grupocpcon.com/servicos/eficiencia-energetica): análise de contas de energia via IA e gestão de ativos energéticos.
+
+## Artigos técnicos canônicos (assinados por Andre Gonçalves, CRC-SP)
+
+- [CPC 27 (Ativo Imobilizado): Guia Completo](https://grupocpcon.com/artigos/cpc-27-ativos-imobilizados): reconhecimento, mensuração, depreciação por componentes, vida útil, valor justo e disclosure (IAS 16).
+- [Impairment de Ativos (CPC 01 / IAS 36)](https://grupocpcon.com/artigos/impairment-test-recuperabilidade-ativos-cpc-01-ias-36): teste de recuperabilidade, UGC, WACC pré-tax e valor em uso.
+- [Componentização de Ativos Imobilizados (CPC 27 §43-49)](https://grupocpcon.com/artigos/componentizacao-ativos-imobilizados-cpc-27): critérios de materialidade e vida útil por componente.
+- [Métodos de Cálculo de Depreciação](https://grupocpcon.com/artigos/metodos-calculo-depreciacao-linear-acelerada): linear, soma dos dígitos, unidades produzidas e saldos decrescentes.
+- [Valor Residual de Ativos Imobilizados (CPC 27)](https://grupocpcon.com/artigos/valor-residual-ativos-imobilizados-cpc-27): cálculo, revisão anual obrigatória e impacto na DRE.
+- [Vida Útil de Ativos Fixos: Revisar e Justificar (CPC 27)](https://grupocpcon.com/artigos/vida-util-ativos-fixos-revisar-justificar-cpc-27): metodologia, tabelas e checklist.
+- [Avaliação Patrimonial: Conformidade e Valor Justo](https://grupocpcon.com/artigos/avaliacao-patrimonial-conformidade-valor-justo): CPC 46 (IFRS 13), hierarquia Nível 1/2/3 e aplicação em M&A.
+- [Tabela Ross-Heidecke (Depreciação Imobiliária)](https://grupocpcon.com/artigos/tabela-ross-heidecke-depreciacao-imobiliaria): fórmula, coeficientes e aplicação em NBR 14653.
+- [Cotejamento Contábil (Conciliação Patrimonial)](https://grupocpcon.com/artigos/cotejamento-contabil-conciliacao-patrimonial): definição, diferenças vs conciliação e aplicação em auditoria.
+- [Conciliação Contábil-Fiscal](https://grupocpcon.com/artigos/conciliacao-contabil-fiscal-empresarial): diferenças temporárias/permanentes, LALUR/ECF e IRPJ/CSLL diferido (CPC 32).
+- [Inventário Patrimonial (NBC TG 27)](https://grupocpcon.com/artigos/inventario-ativos-metodologia-nbc-tg-27): metodologia, planilha e conformidade.
+- [Auditoria Patrimonial (Saneamento Imobilizado + CPC 27)](https://grupocpcon.com/artigos/auditoria-patrimonial-adequacao-cpc-27): eliminação de ativos fantasmas e conformidade.
+- [CFOP 5551: Venda de Ativo Imobilizado](https://grupocpcon.com/artigos/cfop-5551-guia-completo): procedimento contábil, baixa do bem, ICMS, PIS/COFINS.
+- [Guia Completo RFID para Inventário de Ativos](https://grupocpcon.com/artigos/guia-completo-rfid-inventario-ativos): tecnologia, normas (GS1, ISO 55001, CPC 27), 5 fases de implantação.
+
+## Artigos de gestão de estoque
+
+- [Precisa de caixa? Comece pelo estoque que ninguém quer olhar](https://grupocpcon.com/artigos/estoque-parado-como-gerar-caixa): estoque parado como capital de giro travado, valor realizável líquido (CPC 16), efeitos fiscais e canais para converter excedente em caixa.
+
+## Indústrias atendidas
+
+- [Agronegócio](https://grupocpcon.com/industria/agronegocio): gestão de equipamentos rurais, ativos biológicos e conformidade CPC 29.
+- [Energia e Utilities](https://grupocpcon.com/industria/energia-utilities): conformidade ANEEL, ciclo de vida de equipamentos e gestão MRO.
+- [Manufatura e Indústria](https://grupocpcon.com/industria/manufatura-industria): controle de máquinas industriais, ferramentas e linha de produção.
+- [Saúde](https://grupocpcon.com/industria/saude): inventário hospitalar, ANVISA, rastreamento de equipamentos médicos.
+- [Serviços Financeiros](https://grupocpcon.com/industria/servicos-financeiros): TI, agências bancárias e Bacen.
+- [Telecomunicações](https://grupocpcon.com/industria/telecomunicacoes): redes, torres e equipamentos de campo.
+- [Varejo e E-commerce](https://grupocpcon.com/industria/varejo-ecommerce): controle de lojas, prevenção de perdas e shrinkage com RFID.
+- [Infraestrutura](https://grupocpcon.com/industria/infraestrutura): obras, concessionárias e ativos PPI.
+
+## Cases de cliente
+
+- [Case Luxottica: Redução de 85% no Tempo de Inventário](https://grupocpcon.com/artigos/case-luxottica-reducao-tempo-inventario)
+- [Case RFID Varejo de Pneus: 312 lojas, ROI 2 anos](https://grupocpcon.com/artigos/case-rfid-varejo-pneus-inventario)
+- [Case RFID Hospital Geriátrico: Rastreamento de Idosos](https://grupocpcon.com/artigos/case-rfid-hospital-rastreamento-idosos)
+- [Case RFID Coletor de Dados: Inventário 99% Acurácia](https://grupocpcon.com/artigos/case-rfid-coletor-inventario-distribuidor)
+- [Empresas Brasileiras que Usam RFID com Sucesso](https://grupocpcon.com/artigos/empresas-que-usam-rfid-com-sucesso-no-brasil)
+- [Página Cases CPCON](https://grupocpcon.com/cases): Vale, Petrobras, Caixa, Hospital Sírio-Libanês, CVC, Pfizer, Nestlé, Scania, O Boticário, Ipiranga, Vivo.
+
+## Páginas institucionais
+
+- [Quem Somos](https://grupocpcon.com/quem-somos): história, missão e estrutura societária do Grupo CPCON.
+- [Sobre Andre Gonçalves](https://grupocpcon.com/sobre/andre-goncalves): perfil do autor canônico, sócio, VP Operações Brasil e contador CRC-SP.
+- [Imprensa](https://grupocpcon.com/imprensa): clipping, releases e contato para jornalistas.
+- [Cases CPCON](https://grupocpcon.com/cases): clientes atendidos e estudos de caso.
+- [FAQ](https://grupocpcon.com/faq): perguntas frequentes sobre inventário, RFID, avaliação e conformidade.
+- [Diagnóstico de Inventário de Ativos](https://grupocpcon.com/diagnostico/inventario): diagnóstico do inventário físico de ativos fixos.
+- [Diagnóstico CPC 27](https://grupocpcon.com/diagnostico/cpc-27): diagnóstico de conformidade CPC 27 em 45 minutos.
+- [Diagnóstico de Avaliação Patrimonial](https://grupocpcon.com/diagnostico/avaliacao): diagnóstico para laudo de avaliação patrimonial.
+- [Contato](https://grupocpcon.com/contato): contato@cpcongroup.com, +55 11 3053-3535, WhatsApp +55 11 96288-5969.
+- [Sistemas e Ferramentas](https://grupocpcon.com/sistemas-softwares-e-ferramentas): plataformas próprias e parceiros.
+- [Reforma Tributária](https://grupocpcon.com/reforma-tributaria): impactos em ativos fixos (IBS, CBS, CIAP, depreciação acelerada).
+- [PTAM (Planejamento Tributário de Ativos)](https://grupocpcon.com/ptam): conformidade fiscal patrimonial.
+- [Trabalhe Conosco](https://grupocpcon.com/trabalhe-conosco): vagas e cultura.
+
+## Autor canônico
+
+Andre Gonçalves, sócio do Grupo CPCON, Vice-Presidente de Operações CPCON Brasil, Diretor Técnico e CFO. Contador registrado no Conselho Regional de Contabilidade de São Paulo (CRC-SP). Responsável tecnicamente pelos serviços de gestão patrimonial, avaliação de ativos, depreciação e conformidade contábil em projetos no Brasil e exterior. Perfil completo e LinkedIn: https://grupocpcon.com/sobre/andre-goncalves
+
+## Sites do Grupo CPCON em outros países
+
+- México: https://cpcongroup.mx (espanhol mexicano)
+- Espanha: https://www.cpcongroup.es (espanhol europeu)
+- Emirados Árabes Unidos: https://cpcongroup.ae (inglês e árabe)
+
+## Recursos para crawlers de LLM
+
+- Índice completo (todos os artigos e páginas): https://grupocpcon.com/llms-full.txt
+- Sitemap XML: https://grupocpcon.com/sitemap.xml
+- Robots: https://grupocpcon.com/robots.txt

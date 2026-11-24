@@ -1,0 +1,13 @@
+Codigo;Item;Categoria;Setor;Quantidade Total;Em Circulacao;Em Lavagem;Em Estoque;Perdas / Extravio;Ciclos de Lavagem;Vida Util (ciclos);Status;Ultima Conferencia
+ENX-0001;Toalha de banho branca;Banho;Andar 3 - Hospedagem;600;420;120;48;12;180;250;OK;05/06/2026
+ENX-0002;Toalha de rosto branca;Banho;Andar 3 - Hospedagem;800;560;180;52;8;160;250;OK;05/06/2026
+ENX-0003;Roupao felpa adulto;Banho;Andar 4 - Hospedagem;200;150;38;6;6;90;200;REPOR;05/06/2026
+ENX-0004;Lencol solteiro 100% algodao;Cama;Andar 3 - Hospedagem;500;360;110;25;5;120;200;OK;05/06/2026
+ENX-0005;Fronha padrao 50x70;Cama;Andar 3 - Hospedagem;1000;720;230;48;2;100;200;OK;05/06/2026
+ENX-0006;Edredom queen;Cama;Andar 5 - Hospedagem;180;130;40;6;4;30;150;CRITICO;05/06/2026
+ENX-0007;Toalha de mesa retangular;Mesa;Restaurante / A&B;240;160;60;18;2;75;180;OK;05/06/2026
+ENX-0008;Guardanapo de tecido;Mesa;Restaurante / A&B;1200;820;320;52;8;140;200;OK;05/06/2026
+ENX-0009;Jaleco branco - Enfermagem;Uniformes;Centro Cirurgico;150;110;32;5;3;95;150;REPOR;05/06/2026
+ENX-0010;Campo cirurgico esteril;Cirurgico;Centro Cirurgico;300;180;100;14;6;60;120;OK;05/06/2026
+ENX-0011;Cobertor hospitalar;Cama;Internacao - Ala B;220;160;48;9;3;70;150;OK;05/06/2026
+ENX-0012;Pijama de internacao;Uniformes;Internacao - Ala B;400;290;95;7;8;110;180;CRITICO;05/06/2026

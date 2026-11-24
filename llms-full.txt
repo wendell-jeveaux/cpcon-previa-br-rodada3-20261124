@@ -1,0 +1,254 @@
+# Grupo CPCON Brasil: Índice Completo
+
+> Índice exaustivo do grupocpcon.com para crawlers de LLM. Contém todos os serviços, artigos técnicos, indústrias atendidas, cases e páginas institucionais do site brasileiro. Use https://grupocpcon.com/llms.txt para a visão curada (top 15 artigos). Conteúdo escrito por Andre Gonçalves (sócio CPCON, contador CRC-SP) e equipe técnica. Atualizado em 2026-05-28.
+
+## Visão geral
+
+Empresa: Grupo CPCON (CPCON Group)
+Experiência: 30 anos (desde 1995)
+Projetos: mais de 4.500. Clientes: quase 2.600. Integrações com ERP: mais de 617.
+Satisfação dos clientes: 98%. Precisão de inventário: 99%.
+Sede Brasil: São Paulo
+Site oficial: https://grupocpcon.com
+Contato: contato@cpcongroup.com | +55 11 3053-3535 | WhatsApp +55 11 96288-5969
+Países atendidos: mais de 15. 17 escritórios próprios em 7 países: Brasil, México, Espanha, Estados Unidos, Emirados Árabes Unidos, Reino Unido e França.
+
+## Áreas de atuação
+
+- Inventário físico de ativos fixos (in loco, com etiquetagem RFID/QR Code)
+- Avaliação patrimonial (valuation): valor de mercado, valor justo, impairment
+- Implantação RFID UHF e IoT (hardware, software, integração ERP)
+- Consultoria contábil-fiscal (CPC 27, CPC 01, CPC 04, CPC 28, CPC 46, IFRS, NBC TG)
+- Adequação à Reforma Tributária (IBS, CBS, CIAP, transição 2027-2032)
+- CMMS (gestão de manutenção computadorizada) integrada a RFID
+- Controle de estoques e MRO
+- Análise de eficiência energética com IA
+
+## Todos os serviços (URLs canônicas)
+
+- [Inventário Patrimonial e de Ativos Fixos](https://grupocpcon.com/servicos/inventario-ativos-fixos)
+- [Avaliação de Ativos (Valuation)](https://grupocpcon.com/servicos/avaliacao-de-ativos)
+- [Implantação RFID e IoT](https://grupocpcon.com/servicos/implantacao-rfid-iot)
+- [CMMS, RFID e IoT](https://grupocpcon.com/servicos/cmms-rfid-iot)
+- [Consultoria Patrimonial](https://grupocpcon.com/servicos/consultoria-patrimonial)
+- [Componentização de Ativos](https://grupocpcon.com/servicos/componentizacao-de-ativos)
+- [Adequação à Reforma Tributária](https://grupocpcon.com/servicos/adequacao-reforma-tributaria)
+- [Avaliação Patrimonial Fiscal](https://grupocpcon.com/servicos/avaliacao-patrimonial-fiscal)
+- [Diagnóstico Patrimonial Lucro Presumido](https://grupocpcon.com/servicos/diagnostico-patrimonial-lucro-presumido)
+- [Regularização de Ativos](https://grupocpcon.com/servicos/regularizacao-de-ativos)
+- [Controle de Estoques](https://grupocpcon.com/servicos/controle-de-estoques)
+- [Eficiência Energética](https://grupocpcon.com/servicos/eficiencia-energetica)
+- [Ativos Reversíveis (Concessionárias)](https://grupocpcon.com/servicos/ativos-reversiveis)
+- [Avaliação de Marcas (Brand Valuation)](https://grupocpcon.com/servicos/avaliacao-de-marcas)
+- [RFID (catálogo amplo)](https://grupocpcon.com/servicos/rfid)
+- [RFID: Hardware](https://grupocpcon.com/servicos/rfid/hardware-rfid)
+- [RFID: Tags TechCodes](https://grupocpcon.com/servicos/rfid/tags-techcodes)
+- [RFID: Automação Supply Chain](https://grupocpcon.com/servicos/rfid/automacao-supply-chain)
+- [RFID: Controle de Pessoas](https://grupocpcon.com/servicos/rfid/controle-de-pessoas)
+- [RFID: Controle de Pessoas Industrial](https://grupocpcon.com/servicos/rfid/controle-de-pessoas-industrial)
+- [RFID: Controle de Pneus](https://grupocpcon.com/servicos/rfid/controle-de-pneus)
+- [RFID: Controle de Caixas e Paletes](https://grupocpcon.com/servicos/rfid/controle-de-caixas-paletes)
+- [RFID: Controle de Enxovais](https://grupocpcon.com/servicos/rfid/controle-de-enxovais)
+- [RFID: Gestão de Inventário Hospitalar](https://grupocpcon.com/servicos/rfid/gestao-inventario-hospitalar)
+- [CMMS RFID IoT: Analytics Preditivo](https://grupocpcon.com/servicos/cmms-rfid-iot/analytics-preditivo)
+- [Eficiência Energética: Análise IA Contas](https://grupocpcon.com/servicos/eficiencia-energetica/analise-ia-contas)
+- [Small Business: Avaliação](https://grupocpcon.com/servicos/small-business/avaliacao-de-ativos)
+- [Small Business: Consultoria](https://grupocpcon.com/servicos/small-business/consultoria-patrimonial)
+- [Small Business: Estoques](https://grupocpcon.com/servicos/small-business/controle-de-estoques)
+
+## Indústrias atendidas (URLs canônicas)
+
+- [Agronegócio](https://grupocpcon.com/industria/agronegocio)
+- [Energia e Utilities](https://grupocpcon.com/industria/energia-utilities)
+- [Manufatura e Indústria](https://grupocpcon.com/industria/manufatura-industria)
+- [Saúde](https://grupocpcon.com/industria/saude)
+- [Serviços Financeiros](https://grupocpcon.com/industria/servicos-financeiros)
+- [Telecomunicações](https://grupocpcon.com/industria/telecomunicacoes)
+- [Varejo e E-commerce](https://grupocpcon.com/industria/varejo-ecommerce)
+- [Infraestrutura](https://grupocpcon.com/industria/infraestrutura)
+
+## Páginas institucionais
+
+- [Home](https://grupocpcon.com/)
+- [Quem Somos](https://grupocpcon.com/quem-somos)
+- [Sobre Andre Gonçalves (autor canônico)](https://grupocpcon.com/sobre/andre-goncalves)
+- [Imprensa](https://grupocpcon.com/imprensa)
+- [Cases CPCON](https://grupocpcon.com/cases)
+- [FAQ](https://grupocpcon.com/faq)
+- [Diagnóstico de Inventário de Ativos](https://grupocpcon.com/diagnostico/inventario)
+- [Diagnóstico CPC 27](https://grupocpcon.com/diagnostico/cpc-27)
+- [Diagnóstico de Avaliação Patrimonial](https://grupocpcon.com/diagnostico/avaliacao)
+- [Contato](https://grupocpcon.com/contato)
+- [Trabalhe Conosco](https://grupocpcon.com/trabalhe-conosco)
+- [Sistemas, Softwares e Ferramentas](https://grupocpcon.com/sistemas-softwares-e-ferramentas)
+- [Reforma Tributária: Hub](https://grupocpcon.com/reforma-tributaria)
+- [PTAM: Planejamento Tributário de Ativos](https://grupocpcon.com/ptam)
+- [Política de Privacidade](https://grupocpcon.com/politica-privacidade)
+- [Termos de Uso](https://grupocpcon.com/termos-de-uso)
+
+## Clientes representativos
+
+Petrobras, Vale, Caixa Econômica Federal, Banco Central, Hospital Sírio-Libanês, CVC Brasil, Pfizer, Nestlé, Scania, O Boticário, Ipiranga, Vivo, Luxottica.
+
+## Todos os artigos (138 no total, ordem alfabética)
+
+- [4 Erros Comuns no Inventário de Bens Patrimoniais](https://grupocpcon.com/artigos/inventario-de-bens-patrimoniais-4-erros-comuns): Conheça os 4 erros mais comuns no inventário de bens patrimoniais: falta de planejamento, etiquetagem incorreta, não conciliar e ignorar depreciação.
+- [A Relevância do Controle Patrimonial na Gestão Contábil](https://grupocpcon.com/artigos/gestao-contabil-relevancia-controle-patrimonial): Saiba por que o controle patrimonial é essencial à gestão contábil, impactando depreciação, CPC 27, auditoria e fidedignidade das demonstrações.
+- [Adesivo RFID: Quando Usar e Especificações Técnicas](https://grupocpcon.com/artigos/adesivo-rfid): Adesivo RFID: quando usar, especificações técnicas, materiais disponíveis e diferenças em relação às tags rígidas na identificação patrimonial. Brasil.
+- [Ajuste a Valor Presente (AVP) e CPC 12: cálculo e lançamentos](https://grupocpcon.com/artigos/ajuste-a-valor-presente-avp-cpc-12): CPC 12 (R1) e a Resolução CVM 190: por quanto registrar a valor presente, como o juro efetivo apropria o desconto e o que não se ajusta de novo.
+- [Ajuste de Avaliação Patrimonial: Como Contabilizar](https://grupocpcon.com/artigos/ajuste-de-avaliacao-patrimonial-contabilizacao): Passo a passo da contabilização do ajuste de avaliação patrimonial conforme CPC 27 e IFRS. Casos práticos, exemplos numéricos e checklist auditoria.
+- [Antena RFID: funcionamento e por que é essencial para empresas](https://grupocpcon.com/artigos/antena-rfid-funcionamento-empresas): Entenda como funcionam as antenas RFID, os tipos disponíveis e por que essa tecnologia é essencial para o controle de ativos e estoques empresariais.
+- [Ativo e Passivo: Conceito, Diferenças e Estrutura do Balanço](https://grupocpcon.com/artigos/ativo-e-passivo-balanco-patrimonial): Diferença entre ativo e passivo, classificação circulante e não circulante, equação patrimonial e estrutura do balanço conforme CPC 26 e Lei 6.404.
+- [Ativo Imobilizado: O Que É, Classificação e Exemplos 2026](https://grupocpcon.com/artigos/ativo-imobilizado-conceito-classificacao): Ativo imobilizado: o que é, conceito segundo CPC 27, classificação contábil, exemplos práticos e diferenças com intangível e propriedade para investimento. Guia 2026.
+- [Ativo Não Circulante: Classificação, Exemplos e Apresentação 2026](https://grupocpcon.com/artigos/ativo-nao-circulante-classificacao-exemplos): Ativo não circulante explicado: tipos, classificação contábil, exemplos práticos, apresentação no balanço patrimonial e diferenças com circulante.
+- [Ativos Fantasmas: Como Identificar e Eliminar do Balanço](https://grupocpcon.com/artigos/ativos-fantasmas-identificar-eliminar): Guia prático para identificar ativos fantasmas no imobilizado e o impacto fiscal de não corrigi-los. Metodologia CPCON com 30 anos de história.
+- [Ativos Fixos no Lucro Presumido: Depreciação na Reforma](https://grupocpcon.com/artigos/ativos-fixos-lucro-presumido-depreciacao-reforma-tributaria): Guia técnico sobre depreciação de ativos fixos no Lucro Presumido e impactos da Reforma Tributária (IBS/CBS). Tabelas, checklist e boas práticas.
+- [Ativos Fixos: gestão de frota e impacto no patrimônio](https://grupocpcon.com/artigos/ativos-fixos-gestao-de-veiculos-patrimonio-corporativo): Descubra como a gestão eficiente de ativos fixos, especialmente veículos, reduz custos, controla depreciação e fortalece o patrimônio da empresa.
+- [Ativos Fixos: gestão de máquinas e equipamentos industriais](https://grupocpcon.com/artigos/ativos-fixos-gestao-maquinas-equipamentos-industriais): Veja como a tecnologia RFID e sistemas integrados transformam a gestão de máquinas e equipamentos, reduzindo paradas e maximizando a vida útil dos ativos.
+- [Bens Tangíveis e Intangíveis: Diferenças, Exemplos e CPCs](https://grupocpcon.com/artigos/bens-tangiveis-e-intangiveis): O que são ativos tangíveis? Definição CPC 27/IAS 16, exemplos (imóveis, máquinas, veículos, estoque), diferenças com intangíveis e financeiros.
+- [Auditoria Patrimonial: saneamento do Imobilizado + CPC 27](https://grupocpcon.com/artigos/auditoria-patrimonial-adequacao-cpc-27): Saiba como a Auditoria Patrimonial da CPCON elimina riscos fiscais, saneia o Ativo Imobilizado e assegura conformidade total com CPC 27 e IFRS.
+- [Avaliação de imóveis PPI: conformidade e eficiência](https://grupocpcon.com/artigos/avaliacao-imoveis-ppi): Entenda a avaliação de imóveis para o Programa de Parcerias de Investimentos (PPI): requisitos legais, metodologias e como a CPCON suporta o processo.
+- [Avaliação Imobiliária e Controle Patrimonial: Integração](https://grupocpcon.com/artigos/avaliacao-imobiliaria-e-controle-patrimonial): Avaliação imobiliária integrada ao controle patrimonial conforme a NBR 14653 e o CPC 28, com conformidade normativa e valor justo nas demonstrações. imóveis.
+- [Avaliação Patrimonial: conformidade e valor justo](https://grupocpcon.com/artigos/avaliacao-patrimonial-conformidade-valor-justo): Valor justo de ativos segundo CPC 46 (IFRS 13): hierarquia Nível 1, 2 e 3, métodos de cálculo, aplicação em CPC 27, CPC 28 e operações de M&A.
+- [Benfeitorias em Imóveis: Necessárias, Úteis e Voluptuárias (Guia 2026)](https://grupocpcon.com/artigos/benfeitorias-em-imoveis-necessarias-uteis-voluptuarias): Benfeitorias necessárias, úteis e voluptuárias: exemplos, classificação jurídica (CC art. 96), contabilização, indenização ao locatário e depreciação.
+- [BR GAAP x IFRS: diferenças e convergência no Brasil](https://grupocpcon.com/artigos/br-gaap-x-ifrs): BR GAAP é nome de mercado, não um CPC. O conjunto oficial, a Lei 11.638 e o que a tabela do CFC marca como sem equivalente IASB.
+- [Case Luxottica: Como Reduzimos 85% do Tempo de Inventário](https://grupocpcon.com/artigos/case-luxottica-reducao-tempo-inventario): Conheça os bastidores do projeto RFID que transformou o controle de ativos da Luxottica, reduzindo o inventário de 30 dias para 4 dias. Case real CPCON.
+- [Case RFID Coletor de Dados: Inventário de Estoques com 99% de Acurácia](https://grupocpcon.com/artigos/case-rfid-coletor-inventario-distribuidor): Case real CPCON em distribuidor industrial: 12 coletores RFID Zebra em armazém de 47k SKUs. -90% dias-pessoa, acurácia 91%→99,1%, ROI 374% em 5 anos.
+- [Case RFID Hospital Geriátrico: Rastreamento de Idosos com Pulseiras](https://grupocpcon.com/artigos/case-rfid-hospital-rastreamento-idosos): Case CPCON de RFID em hospital geriátrico: 47 antenas UHF, 8 catracas e pulseiras RFID para reduzir acidentes em escadas e acessos não autorizados. meses.
+- [Case RFID Varejo de Pneus: Redução de 50% no Tempo de Inventário](https://grupocpcon.com/artigos/case-rfid-varejo-pneus-inventario): Case real CPCON em rede de 312 lojas de pneus: tags RFID UHF ON-RUBBER em 561 mil unidades. -83% tempo inventário, acurácia 87%→99,4%, ROI 211% em 5 anos.
+- [CFOP 2551: compra de ativo imobilizado interestadual](https://grupocpcon.com/artigos/cfop-2551): CFOP 2.551 é a compra de bem para o ativo imobilizado vinda de outro estado. Veja o crédito de ICMS no CIAP em 48 avos, o diferencial de alíquota e PIS/COFINS.
+- [CIAP na Reforma Tributária: o Duplo Controle (2027 a 2032)](https://grupocpcon.com/artigos/ciap-reforma-tributaria-duplo-controle): Como estruturar o duplo controle do CIAP na transição da Reforma Tributária (2027 a 2032), com ICMS legado e créditos de IBS/CBS ao mesmo tempo. CPCON.
+- [Classificação de materiais em estoque: critérios e Curva ABC](https://grupocpcon.com/artigos/classificacao-de-materiais): Classificação de materiais por tipo, valor e criticidade. A curva ABC, o XYZ e o PQR entram na política da empresa, com código estável.
+- [Como a Tecnologia RFID Revoluciona o Controle de Ativos](https://grupocpcon.com/artigos/rfid-revoluciona-controle-ativos): Entenda como o RFID transforma o controle de ativos fixos, reduz tempo de inventário e aumenta a precisão patrimonial. Guia técnico com metodologia CPCON.
+- [Componentização de ativos imobilizados: guia técnico CPC 27 §43-49](https://grupocpcon.com/artigos/componentizacao-ativos-imobilizados-cpc-27): Componentização do ativo imobilizado pelo CPC 27: critérios de materialidade, alocação de custo, vida útil por componente e impacto na depreciação.
+- [Conciliação Contábil-Fiscal: O Que É, Por Que Fazer e Como Aplicar](https://grupocpcon.com/artigos/conciliacao-contabil-fiscal-empresarial): Guia técnico da conciliação contábil-fiscal: diferenças temporárias e permanentes, LALUR/ECF, controle de IRPJ/CSLL diferido (CPC 32) e procedimentos.
+- [Controle de Ativos Imobilizados: Implementação Prática do CPC 27](https://grupocpcon.com/artigos/cpc-27-e-controle-de-ativos-imobilizados): Implementação operacional do CPC 27 no controle de ativos imobilizados: processo, integração ERP × engenharia × contabilidade e gestão por classes.
+- [Controle de Estoque: Métodos, ROI e Tecnologia 2026](https://grupocpcon.com/artigos/controle-de-estoque): Como implementar controle de estoque eficiente: métodos clássicos, RFID, planilhas e indicadores de ROI. Guia executivo com cases reais.
+- [Controle de Ferramentas com RFID: ROI em 12 Meses](https://grupocpcon.com/artigos/controle-ferramentas-rfid-roi): Análise detalhada de como empresas industriais recuperam o investimento em RFID para controle de ferramentas em menos de 1 ano. Metodologia e KPIs CPCON.
+- [Controle Patrimonial: Guia Completo de Inventário e Plaquetagem](https://grupocpcon.com/artigos/controle-patrimonial-guia-definitivo): Controle patrimonial passo a passo: inventário físico de ativos, plaquetagem RFID, conciliação contábil, baixa de bens e KPIs de gestão. Guia técnico CPCON.
+- [COP30 e RFID: tecnologia como motor de cadeias produtivas sustentáveis](https://grupocpcon.com/artigos/cop30-rfid-cadeias-produtivas-sustentaveis): Entenda como a tecnologia RFID, em sintonia com os objetivos da COP30, impulsiona cadeias produtivas mais sustentáveis e rastreáveis no Brasil.
+- [Cotejamento Contábil: O Que É e Como Aplicar na Auditoria Patrimonial](https://grupocpcon.com/artigos/cotejamento-contabil-conciliacao-patrimonial): Guia técnico do cotejamento contábil: definição, diferenças vs. conciliação, aplicação em auditoria patrimonial, ferramentas e procedimentos NBC TA.
+- [CPC 00 (R2): Estrutura Conceitual Resumida e Atual](https://grupocpcon.com/artigos/cpc-00-r2-estrutura-conceitual-para-relatorio-financeiro): Entenda o CPC 00 (R2), estrutura conceitual contábil brasileira: princípios, qualitativos e mudanças vs CPC 00 (R1). Guia didático com exemplos.
+- [CPC 01 na Prática: UGC, WACC pré-tax e Valor em Uso](https://grupocpcon.com/artigos/cpc-01-impairment): CPC 01 técnico: definição de UGC, WACC pré-imposto, valor em uso defensável e os 6 erros que geram ressalvas Big Four no teste de impairment.
+- [CPC 05: Divulgação sobre Partes Relacionadas](https://grupocpcon.com/artigos/cpc-05-partes-relacionadas): CPC 05 e a IAS 24: quem é parte relacionada, o que divulgar mesmo sem transação, saldos, compromissos e remuneração. A norma não mede preço.
+- [CPC 06 (R2): Arrendamento Mercantil e Leasing: Guia 2026](https://grupocpcon.com/artigos/cpc-06-r2-arrendamento-mercantil-leasing): Entenda o CPC 06 (R2): arrendamento mercantil/leasing, IFRS 16, mensuração, divulgação e exemplos práticos. Diferenças vs CPC 06 R1.
+- [CPC 07: Subvenção e Assistência Governamental](https://grupocpcon.com/artigos/cpc-07-subvencao-e-assistencia-governamental): Entenda o CPC 07 sobre subvenção governamental: tipos de incentivos, reconhecimento contábil, mensuração e impacto nos ativos fixos no Brasil.
+- [CPC 16: Estoques (resumo e aplicação)](https://grupocpcon.com/artigos/cpc-16-estoques): CPC 16 (R1) e a IAS 2: estoque pelo menor entre custo e valor realizável líquido, com PEPS ou custo médio. O UEPS não entra.
+- [CPC 17: contratos de construção e o CPC 47](https://grupocpcon.com/artigos/cpc-17-contratos-de-construcao): O CPC 17 foi revogado em 1º de janeiro de 2018. Veja o que a IAS 11 tratava e como o CPC 47 reconhece hoje a receita de um contrato de construção.
+- [CPC 18 (R3): coligada, controlada e equivalência](https://grupocpcon.com/artigos/cpc-18-coligada-controlada): CPC 18 (R3), obrigatório desde 2025 pela Resolução CVM 211/2024: coligada, presunção de 20 por cento do voto e método da equivalência patrimonial.
+- [CPC 20: Custos de Empréstimos (resumo e aplicação)](https://grupocpcon.com/artigos/cpc-20-custos-de-emprestimos): CPC 20 (R1) e a IAS 23: juro capitalizado no ativo que leva tempo substancial para ficar pronto, e juro que permanece despesa.
+- [CPC 26 (R1): Apresentação das Demonstrações Contábeis](https://grupocpcon.com/artigos/cpc-26-r1-apresentacao-das-demonstracoes-contabeis): CPC 26 (R1) define a apresentação das demonstrações contábeis no Brasil. Equivalente ao IAS 1: DRE/DRA, balanço, DMPL e DFC explicados.
+- [CPC 27 (Ativo Imobilizado): Guia Completo da Norma Contábil 2026](https://grupocpcon.com/artigos/cpc-27-ativos-imobilizados): Guia completo do CPC 27 (IAS 16): reconhecimento, mensuração, depreciação por componentes, vida útil, valor justo, disclosure e diferenças vs. IAS 16.
+- [CPC 28 (Propriedade para Investimento): Guia Prático 2026](https://grupocpcon.com/artigos/cpc-28-propriedade-para-investimento): CPC 28: definição de propriedade para investimento, modelo de valor justo vs custo, divulgações obrigatórias, transferências e exemplos práticos. Guia completo 2026.
+- [CPC 32: Tributos sobre o Lucro (resumo)](https://grupocpcon.com/artigos/cpc-32-tributos-sobre-o-lucro): CPC 32, correlato à IAS 12: imposto corrente, diferença temporária, diferido sem ajuste a valor presente e teste do ativo fiscal.
+- [CPC 34: Exploração e Avaliação de Recursos Minerais](https://grupocpcon.com/artigos/cpc-34-recursos-minerais): O CPC 34 segue não editado no índice. O Edital 05/2026 discute minuta ligada à IFRS 6. Minuta de audiência não é norma aprovada.
+- [CPC 41: Resultado por Ação (resumo)](https://grupocpcon.com/artigos/cpc-41-resultado-por-acao): CPC 41 e a IAS 33: resultado por ação básico e diluído, média ponderada e quem precisa apresentar o indicador na DRE.
+- [CPC 48: Instrumentos Financeiros (resumo)](https://grupocpcon.com/artigos/cpc-48-instrumentos-financeiros): O CPC 48 (IFRS 9) classifica o ativo financeiro, aplica a perda de crédito esperada e substituiu o CPC 38 em janeiro de 2018.
+- [Custo das Mercadorias Vendidas (CMV): precisão contábil](https://grupocpcon.com/artigos/custo-mercadorias-vendidas): Entenda como calcular o CMV corretamente, os métodos de custeio (custo médio, FIFO), o impacto na margem bruta e como erros no CMV geram contingências fiscais.
+- [Depreciação Acelerada na Reforma Tributária: Impactos no IRPJ e CSLL](https://grupocpcon.com/artigos/depreciacao-acelerada-reforma-tributaria-irpj-csll): Guia técnico sobre depreciação acelerada na Reforma Tributária e impactos no IRPJ/CSLL. Tabelas, checklist, erros comuns e boas práticas. CPCON.
+- [Depreciação de Ativos 2026: Cálculo Conforme Receita](https://grupocpcon.com/artigos/depreciacao-ativos-calculo-receita-federal): Tabela atualizada de depreciação Receita Federal 2026, fórmula, exemplo prático e impactos fiscais. Diferenças com CPC 27 explicadas.
+- [É possível ler RFID no celular? Veja como funciona](https://grupocpcon.com/artigos/ler-rfid-no-celular): Sim, em parte: o NFC do celular lê RFID de 13,56 MHz. Etiquetas UHF de inventário (ISO/IEC 18000-63) exigem leitor ou módulo externo homologado pela Anatel.
+- [Empresas que Usam RFID com Sucesso no Brasil](https://grupocpcon.com/artigos/empresas-que-usam-rfid-com-sucesso-no-brasil): Conheça exemplos reais de empresas brasileiras que adotaram RFID com sucesso em varejo, saúde, logística e energia. Resultados e lições aprendidas.
+- [Endereçamento de estoque: códigos e prateleiras](https://grupocpcon.com/artigos/enderecamento-de-estoque): Endereço de estoque: armazém, corredor, estante, nível e posição. O código localiza o lugar. O código do item identifica o material.
+- [Etiquetas RFID: Como Funcionam e Aplicações](https://grupocpcon.com/artigos/etiquetas-rfid-como-funcionam-e-aplicacoes): Conheça os tipos de etiquetas RFID (passivas, ativas, semi-passivas), materiais, durabilidade e aplicações por indústria. Guia completo para gestão de ativos.
+- [Fim da taxa das blusinhas: impacto no planejamento do varejo](https://grupocpcon.com/artigos/fim-taxa-blusinhas-planejamento-financeiro-varejo): Fim da taxa das blusinhas: o que muda no varejo com o fim da isenção nas importações de baixo valor e como adaptar estoque e planejamento financeiro. patrimonial.
+- [Fluxo de Caixa Descontado (FCD): a base do valuation corporativo](https://grupocpcon.com/artigos/fluxo-de-caixa-descontado-valuation): Entenda o que é o Fluxo de Caixa Descontado (FCD/DCF), como calcular o WACC, projetar fluxos e aplicar o método no valuation de empresas e ativos.
+- [Gestão de ativos intangíveis: como criar e mensurar valor](https://grupocpcon.com/artigos/gestao-ativos-intangiveis): Entenda como gerenciar ativos intangíveis (marcas, patentes, software, carteira de clientes) conforme CPC 04 e maximizar seu valor.
+- [Gestão de ativos na indústria alimentícia: conformidade](https://grupocpcon.com/artigos/gestao-de-ativos-industria-alimenticia): Saiba por que a gestão de ativos é crítica para a indústria alimentícia, garantindo conformidade regulatória, rastreabilidade e eficiência operacional.
+- [Gestão de ativos no agronegócio: competitividade brasileira](https://grupocpcon.com/artigos/gestao-de-ativos-agronegocio-competitividade): Gestão de ativos no agronegócio: como sistemas de gestão e RFID controlam equipamentos e estoques e protegem a competitividade do produtor brasileiro. campo.
+- [Gestão de ativos no setor de energia: eficiência e regulação](https://grupocpcon.com/artigos/gestao-de-ativos-setor-de-energia): Descubra como a gestão de ativos no setor de energia garante conformidade com ANEEL, otimiza o ciclo de vida de equipamentos e reduz riscos operacionais.
+- [Gestão de ativos: controle total, ROI maximizado e perdas eliminadas](https://grupocpcon.com/artigos/gestao-de-ativos-controle-total-roi-reducao-perdas): Entenda como uma gestão de ativos eficiente garante controle total do patrimônio, maximiza o ROI e reduz perdas operacionais com tecnologia RFID.
+- [Gestão de estoque: reduzir custos e aumentar eficiência](https://grupocpcon.com/artigos/gestao-de-estoque): Gestão de estoque: estratégias que reduzem custos de armazenagem, evitam rupturas e aumentam a eficiência operacional com técnicas e tecnologia. empresa.
+- [Gestão Patrimonial vs Avaliação Patrimonial: diferenças](https://grupocpcon.com/artigos/gestao-patrimonial-avaliacao-patrimonial): Entenda as diferenças entre gestão patrimonial e avaliação patrimonial, quando cada uma é necessária e como se complementam para fortalecer seu patrimônio.
+- [Guerra tarifária EUA x Brasil: impacto na gestão de ativos](https://grupocpcon.com/artigos/guerra-tarifaria-eua-brasil-gestao-ativos): Entenda como a guerra tarifária entre EUA e Brasil impacta o custo de importação de equipamentos, o CAPEX corporativo e as decisões de gestão de ativos.
+- [Gestor de ativos e reforma tributária: o que muda com IBS e CBS](https://grupocpcon.com/artigos/gestor-de-ativos-reforma-tributaria): IBS e CBS mudam a rotina do gestor de ativos: base patrimonial, conciliação, CAPEX e trilha de auditoria. Veja o checklist da transição 2026 a 2033.
+- [IBS e CBS sobre Ativos Fixos: Como Calcular e Aproveitar Créditos](https://grupocpcon.com/artigos/ibs-cbs-ativos-fixos-calcular-creditos): Como calcular e aproveitar créditos de IBS e CBS sobre ativos fixos na Reforma Tributária. Metodologia, tabelas, checklist e boas práticas. CPCON.
+- [ICPC 10: Custo Atribuído no Imobilizado](https://grupocpcon.com/artigos/icpc-10-custo-atribuido): A ICPC 10 tratou do custo atribuído na adoção inicial do imobilizado e da propriedade para investimento. Não autoriza reavaliação anual.
+- [Impairment de Ativos: Teste de Recuperabilidade CPC 01 / IAS 36 2026](https://grupocpcon.com/artigos/impairment-test-recuperabilidade-ativos-cpc-01-ias-36): Guia completo de impairment de ativos (CPC 01 / IAS 36): teste de recuperabilidade, valor em uso, UGC, WACC pré-tax, exemplo prático e divulgação.
+- [Impairment no agronegócio: conformidade e proteção de ativos](https://grupocpcon.com/artigos/impairment-setor-agricola): Entenda como realizar o teste de impairment no setor agrícola, considerando ativos biológicos (CPC 29), máquinas e terras, com conformidade.
+- [Impairment no setor hospitalar: como identificar perdas](https://grupocpcon.com/artigos/impairment-hospitalar): Impairment no setor hospitalar: como aplicar o teste de recuperabilidade, identificar equipamentos desvalorizados e evitar perdas no balanço. patrimonial.
+- [Inventário de ativos hospitalares: precisão e conformidade regulatória](https://grupocpcon.com/artigos/inventario-ativos-hospitalares-conformidade): Saiba como realizar inventário de ativos em hospitais com precisão, garantindo conformidade ANVISA, rastreabilidade e gestão patrimonial eficiente.
+- [Inventário de Ativos para Manutenção: Guia CMMS (Padrões Americanos)](https://grupocpcon.com/artigos/inventario-ativos-manutencao-cmms-padroes-americanos): Inventário de ativos para manutenção (CMMS/EAM): hierarquia ISO 14224, BoM, MRO, RCM, KPIs (MTBF, MTTR, OEE) e integração com ERP. CPCON.
+- [Inventário de Bens Patrimoniais Públicos: Como Fazer](https://grupocpcon.com/artigos/inventario-de-bens-patrimoniais-publicos): Guia completo para inventário de bens patrimoniais no setor público: obrigações legais, NBC TSP, metodologia, desafios e como a CPCON executa o processo.
+- [Inventário de estoque: o que é, como fazer e por que é essencial](https://grupocpcon.com/artigos/inventario-de-estoque): Entenda o que é inventário de estoque, como fazer contagem eficiente, identificar divergências e por que é essencial à saúde financeira da empresa.
+- [Inventário de MRO em logística: conformidade e custos](https://grupocpcon.com/artigos/inventario-mro-logistica): Inventário de MRO em logística: como controlar peças de manutenção, reduzir custos e evitar paradas não planejadas de frota em transportadoras. cargas.
+- [Inventário de MRO no setor de energia: gestão precisa](https://grupocpcon.com/artigos/inventario-mro-energia): Inventário de MRO no setor de energia: como garantir peças críticas disponíveis, reduzir custos de armazenagem e apoiar a conformidade regulatória. ANEEL.
+- [Inventário Patrimonial: Metodologia, Planilha e Conformidade NBC TG 27](https://grupocpcon.com/artigos/inventario-ativos-metodologia-nbc-tg-27): Inventário patrimonial: o que é, tipos, como fazer passo a passo, planilha Excel, modelo e conformidade NBC TG 27 / CPC 27. Metodologia CPCON.
+- [IoT e Gestão de Ativos: Monitoramento em Tempo Real](https://grupocpcon.com/artigos/iot-gestao-ativos-monitoramento-tempo-real): Explore como sensores IoT integrados ao RFID permitem rastreamento em tempo real, manutenção preditiva e redução de perdas operacionais. Guia técnico CPCON.
+- [Laudos técnicos de avaliação: precisão e validade jurídica](https://grupocpcon.com/artigos/laudos-tecnicos-de-avaliacao): Laudo técnico de avaliação: o que é, quando sua empresa precisa de um, quais normas seguir e como garantir validade jurídica e contábil. contábil.
+- [Layout: O que é? Tipos, Conceito e Aplicações Práticas](https://grupocpcon.com/artigos/layout-o-que-e): O que é layout? Entenda o conceito, os principais tipos de layout (industrial, armazém, escritório, web) e como projetar um layout eficaz com a CPCON.
+- [Leitor RFID: Guia Completo + Comparação de Modelos 2026](https://grupocpcon.com/artigos/leitor-rfid-tudo-o-que-voce-precisa-saber): Leitor RFID e leitores RFID portáteis, fixos e portais: tipos UHF/HF/LF, funcionamento, comparação de modelos brasileiros e como escolher para gestão de ativos.
+- [Mais-valia na contabilidade: o que é e o laudo de PPA](https://grupocpcon.com/artigos/mais-valia-contabilidade): Mais-valia contábil é o excedente de valor justo de um item identificável. O goodwill é o residual da combinação e não se amortiza.
+- [Métodos de Cálculo de Depreciação: Linear, Acelerada, Unidades Produzidas](https://grupocpcon.com/artigos/metodos-calculo-depreciacao-linear-acelerada): Métodos de cálculo de depreciação: linear, soma dos dígitos, unidades produzidas e saldos decrescentes, com fórmulas, exemplos e o CPC 27. 27.
+- [NBC T 11: a norma antiga e as NBC TA vigentes](https://grupocpcon.com/artigos/nbc-t-11-auditoria-independente): A NBC T 11 (Resolução CFC 820/1997) foi revogada a partir de 2010 pela Resolução CFC 1.203/2009. A auditoria independente segue hoje a série NBC TA.
+- [NBC TG 1001 para PMEs: Controle de Ativos Simplificado](https://grupocpcon.com/artigos/nbc-tg-1001-pmes-controle-ativos): Entenda as exigências da NBC TG 1001 para pequenas e médias empresas e como implementar controle patrimonial simplificado e em conformidade. Guia CPCON.
+- [NBR 14653-1: Procedimentos Gerais da Avaliação de Bens](https://grupocpcon.com/artigos/nbr-14653-1-procedimentos-gerais): NBR 14653-1: procedimentos gerais da avaliação de bens. Conceitos, métodos, atividades, especificação do laudo e subordinação das outras partes.
+- [NBR 14653-2: avaliação de imóveis urbanos passo a passo (com exemplos práticos)](https://grupocpcon.com/artigos/avaliacao-de-imoveis-guia-completo-nbr-14653): Avaliação de imóveis urbanos pela NBR 14653-2: métodos comparativo, renda e custo, laudo técnico exemplificado e conformidade ABNT. Guia atualizado 2026.
+- [NBR 14653-4: Avaliação de Empreendimentos (Guia 2026)](https://grupocpcon.com/artigos/nbr-14653-4-empreendimentos): NBR 14653-4: avaliação de empreendimentos como negócio em marcha. Por que a renda e o fluxo de caixa substituem a soma de metros quadrados.
+- [NBR 14653-5: Avaliação de Máquinas e Equipamentos (Guia 2026)](https://grupocpcon.com/artigos/nbr-14653-5-maquinas-equipamentos): NBR 14653-5: avaliação de máquinas e equipamentos industriais, com custo de reposição, comparativo, renda e a depreciação distinta do CPC 27.
+- [NBR 14653-6: Recursos Naturais e Ambientais](https://grupocpcon.com/artigos/nbr-14653-6-recursos-naturais): NBR 14653-6: avaliação de recursos naturais e ambientais. Diferença para o imóvel rural e para o CPC 29, e o limite do laudo no passivo ambiental.
+- [Nota fiscal de serviço: o que é, como emitir e evitar erros](https://grupocpcon.com/artigos/nota-fiscal-servico): Guia sobre nota fiscal de serviço (NFS-e): conceito, quando emitir, alíquotas de ISS, emissão eletrônica e como evitar erros que geram autuações.
+- [Nuvem de pontos para estoque a granel: volume preciso](https://grupocpcon.com/artigos/nuvem-pontos-estoque): Como a tecnologia de nuvem de pontos (LiDAR/drones) mede volumes de estoques a granel com precisão, reduzindo perdas e garantindo conformidade.
+- [O Guia Completo de RFID para Inventário de Ativos Fixos (2026)](https://grupocpcon.com/artigos/guia-completo-rfid-inventario-ativos): Como implementar RFID UHF em ativos fixos: tecnologia, normas (GS1, ISO 55001, CPC 27), 5 fases de implantação em 60-120 dias e ROI realista.
+- [O Que é Ativo Fixo: Conceitos, Exemplos e Gestão](https://grupocpcon.com/artigos/o-que-e-ativo-fixo-conceitos-e-exemplos): Saiba o que é ativo fixo, exemplos por setor, tratamento contábil, depreciação e por que o controle de ativos fixos é essencial para sua empresa.
+- [O Que São Bens Patrimoniais e Como Classificá-los](https://grupocpcon.com/artigos/o-que-sao-bens-patrimoniais): Entenda o que são bens patrimoniais, como classificá-los em móveis, imóveis e intangíveis, e como registrar e controlar conforme o CPC 27. Guia completo.
+- [Placa de Patrimônio: Tipos, Normas e Como Escolher 2026](https://grupocpcon.com/artigos/placas-de-identificacao-patrimonial-tipos-normas-roi): Placa de patrimônio (placas de identificação patrimonial): tipos (alumínio, RFID, QR Code, código de barras), normas técnicas, como escolher e cálculo de ROI 2026.
+- [Planilha de controle de ferramentas para almoxarifado](https://grupocpcon.com/artigos/planilha-controle-de-ferramentas): Ficha de almoxarifado para custódia de ferramentas, com status e condição na saída e na volta. O CSV sai só depois que o formulário é aceito.
+- [Plano de Contas Empresarial: Modelo + Estrutura (Guia 2026)](https://grupocpcon.com/artigos/plano-de-contas-empresarial-modelo-estrutura): Plano de contas para empresas: estrutura hierárquica, referencial vs gerencial, modelo Excel, integração SPED/ECD/ECF e exemplos por porte.
+- [Portal RFID em aeroportos: controle de ativos operacional](https://grupocpcon.com/artigos/portal-rfid-aeroportos): Veja como o Portal RFID transforma a gestão operacional de aeroportos com rastreamento de bagagens, equipamentos de pista e ativos de ground handling.
+- [Portal RFID no varejo: controle de estoque e redução de shrinkage](https://grupocpcon.com/artigos/portal-rfid-varejo-shrinkage): Como o Portal RFID transforma operações varejistas com controle preciso de estoque, redução de shrinkage e dados confiáveis para reabastecimento.
+- [Portal RFID para saúde: eficiência e controle operacional em hospitais](https://grupocpcon.com/artigos/portal-rfid-saude-hospitalar): Descubra como o Portal RFID transforma a gestão hospitalar com controle de equipamentos, medicamentos e prontuários em tempo real, reduzindo perdas.
+- [Portal RFID para veículos: autenticação e rastreabilidade](https://grupocpcon.com/artigos/portal-rfid-veiculos): Como o Portal RFID para veículos garante autenticação automática, controle de acesso e rastreabilidade de frota em tempo real para operações.
+- [Quanto vale uma empresa pelo faturamento? (com calculadora)](https://grupocpcon.com/artigos/quanto-vale-uma-empresa-pelo-faturamento): Calcule quanto vale uma empresa pelo faturamento: faturamento mensal vezes 12 vezes o múltiplo que você informar. Veja limites do método e quando pedir laudo.
+- [Racionalização na Gestão de Ativos: Como Reduzir Custos](https://grupocpcon.com/artigos/racionalizacao-gestao-ativos): Descubra como a racionalização de ativos reduz custos operacionais, identifica bens subutilizados e otimiza o patrimônio corporativo. Metodologia CPCON.
+- [Rastreamento de ativos com RFID: visibilidade 24/7 e zero perdas](https://grupocpcon.com/artigos/rastreamento-de-ativos-rfid-visibilidade-24-7): Descubra como o rastreamento de ativos com RFID elimina furtos, reduz perdas e garante visibilidade total em tempo real para sua operação.
+- [Reavaliação Patrimonial de Ativos Tangíveis](https://grupocpcon.com/artigos/reavaliacao-patrimonial-ativos-tangiveis): Reavaliação patrimonial de ativos tangíveis: a proibição desde 2007, as alternativas pelo CPC 27 e a avaliação a valor justo feita pela CPCON. avaliação.
+- [RFID e Fórmula 1: como o rastreamento inteligente acelera a inovação](https://grupocpcon.com/artigos/rfid-f1): Como a tecnologia RFID é usada na Fórmula 1 para rastrear peças, gerenciar ativos e garantir conformidade técnica: lições para sua empresa.
+- [RFID e IoT: Integração para Gestão Inteligente de Ativos](https://grupocpcon.com/artigos/rfid-e-iot): Saiba como RFID e IoT trabalham juntos para criar uma gestão inteligente de ativos com sensores, manutenção preditiva e monitoramento em tempo real.
+- [RFID em clubes de futebol: controle de equipamentos](https://grupocpcon.com/artigos/rfid-clube-futebol): Como clubes de futebol usam RFID para controlar estoque de uniformes, equipamentos e materiais esportivos, reduzindo perdas e otimizando a gestão.
+- [RFID na construção civil: rastreamento em obras](https://grupocpcon.com/artigos/rfid-construcao-civil): Veja como o RFID revoluciona a gestão de materiais e equipamentos em obras de construção civil, reduzindo perdas, furtos e atrasos no canteiro.
+- [RFID na gestão hoteleira: enxoval, day use e receita](https://grupocpcon.com/artigos/rfid-gestao-hoteleira): Veja como hotéis usam RFID para controlar enxoval, reduzir perdas de roupas, otimizar o day use e aumentar a eficiência operacional da rouparia.
+- [RFID na indústria de produtos de limpeza: da produção à distribuição](https://grupocpcon.com/artigos/rfid-produtos-limpeza): Como o RFID garante controle total na indústria de produtos de limpeza: rastreamento de lote, controle de embalagens e conformidade regulatória.
+- [RFID na indústria farmacêutica: rastreabilidade ANVISA](https://grupocpcon.com/artigos/rfid-industria-farmaceutica): Descubra como o RFID garante rastreabilidade completa na indústria farmacêutica, atendendo às exigências da ANVISA e prevenindo falsificações e desvios.
+- [RFID no agronegócio: controle de ativos no campo](https://grupocpcon.com/artigos/rfid-no-agronegocio-controle-ativos): Veja como o RFID transforma o agronegócio com rastreamento de máquinas, insumos e animais, reduzindo perdas e maximizando resultados em fazendas e usinas.
+- [RFID no setor frigorífico: validade, lote e rastreabilidade](https://grupocpcon.com/artigos/rfid-frigorifico): Como o RFID transforma o controle no setor frigorífico com rastreamento de validade, lote e temperatura em câmaras frias, garantindo segurança.
+- [RFID WMS: Como a Tecnologia RFID Transforma a Gestão de Armazéns](https://grupocpcon.com/artigos/rfid-wms): Como a integração entre RFID e WMS revoluciona a gestão de armazéns, aumentando acuracidade do estoque, acelerando operações e reduzindo erros.
+- [RTLS: Rastreamento em Tempo Real com RFID](https://grupocpcon.com/artigos/rastreamento-em-tempo-real-com-rfid-rtls): Descubra o que é RTLS (Real-Time Location System), como funciona com RFID e suas aplicações em hospitais, fábricas e armazéns. Conheça a solução CPCON.
+- [Sensor RFID: o que é, tipos e como funciona](https://grupocpcon.com/artigos/sensor-rfid): Sensor RFID acrescenta temperatura, umidade, presença ou deformação à leitura por rádio. Ambiente, metal, bateria e integração definem o esforço.
+- [Sistema RFID para Controle de Estoque: Guia de Implementação](https://grupocpcon.com/artigos/sistema-rfid-para-controle-de-estoque): Guia completo para implementar sistema RFID no controle de estoque: etapas, integração com WMS, ROI esperado e casos reais. Consultoria CPCON Brasil.
+- [SPED Fiscal e Controle de Ativos: O que Você Precisa Saber](https://grupocpcon.com/artigos/sped-fiscal-controle-ativos): Como garantir que o controle de ativos fixos esteja em conformidade com o SPED Fiscal. Evite inconsistências em auditorias e autuações da Receita Federal.
+- [Tabela Ross-Heidecke: Guia Completo de Depreciação Imobiliária 2026](https://grupocpcon.com/artigos/tabela-ross-heidecke-depreciacao-imobiliaria): Guia técnico da Tabela Ross-Heidecke: fórmula, coeficientes por idade e estado, aplicação em avaliação imobiliária (NBR 14653) e laudo CREA.
+- [Tecnologia RFID: Tudo o Que Você Precisa Saber](https://grupocpcon.com/artigos/tecnologia-rfid-tudo-o-que-voce-precisa-saber): Guia sobre tecnologia RFID: o que é, como funciona, tipos de tags, frequências e aplicações na gestão patrimonial. Como o RFID transforma empresas.
+- [Teoria da Contabilidade: conceitos, escolas e princípios](https://grupocpcon.com/artigos/teoria-da-contabilidade): A teoria da contabilidade estuda o reconhecimento e a mensuração. A estrutura conceitual vigente no Brasil é o CPC 00 (R2), de 2019.
+- [Tipos de Ativos na Avaliação Patrimonial: Classificação](https://grupocpcon.com/artigos/quais-sao-os-principais-tipos-de-ativos-na-avaliacao-patrimonial): Conheça os principais tipos de ativos na avaliação patrimonial (tangíveis, intangíveis, financeiros e biológicos) e os métodos de valoração.
+- [Tipos de código de barras: EAN, GS1-128, QR e RFID](https://grupocpcon.com/artigos/codigo-de-barras-tipos): EAN-13, GS1-128 e QR Code exigem linha de visada. A leitura UHF identifica vários itens sem ver cada etiqueta. Veja quando os dois convivem.
+- [Tipos de Inventário: Classificação, Aplicação e Exemplos 2026](https://grupocpcon.com/artigos/tipos-de-inventario-classificacao): Conheça os 10 tipos de inventário: físico, contábil, ABC, rotativo, anual, MRO, hospitalar, intermitente. Quando usar cada um com exemplos práticos.
+- [Transferência e venda de estoque entre empresas: CFOP e impostos](https://grupocpcon.com/artigos/transferencia-de-estoque-entre-empresas): Transferência de estoque (CFOP 5.151 a 6.152) só ocorre entre estabelecimentos da mesma empresa. Entre empresas distintas, mesmo do grupo, a operação é venda.
+- [Valor de Mercado: O Que É e Como Calcular](https://grupocpcon.com/artigos/valor-de-mercado-conceito-calculo): Valor de mercado: conceito, métodos de cálculo, diferença vs valor justo e valor contábil, e aplicação contábil no Brasil. Consultoria CPCON Group.
+- [Valor Mínimo para Ativo Imobilizado: Regras 2026](https://grupocpcon.com/artigos/valor-minimo-para-ativo-imobilizado): Valor mínimo para registrar ativo imobilizado: 1.200 Receita Federal vs critérios CPC 27. Tabela, exemplos práticos e impactos balanço.
+- [Valor Residual de Ativos Imobilizados: Cálculo, Revisão e CPC 27](https://grupocpcon.com/artigos/valor-residual-ativos-imobilizados-cpc-27): Guia técnico do valor residual segundo CPC 27 (IAS 16): definição, métodos de cálculo, revisão anual obrigatória, impacto na depreciação e na DRE.
+- [Venda de Ativo Imobilizado: CFOP 5551 e Procedimento Contábil 2026](https://grupocpcon.com/artigos/cfop-5551-guia-completo): Venda de ativo imobilizado: CFOP 5551 (intraestadual) e 6551 (interestadual), procedimento contábil completo, baixa do bem, ICMS, PIS/COFINS e exemplos práticos 2026.
+- [Vida Útil de Ativos Fixos: Revisar e Justificar (CPC 27)](https://grupocpcon.com/artigos/vida-util-ativos-fixos-revisar-justificar-cpc-27): Como revisar e justificar alterações na vida útil de ativos fixos conforme CPC 27 (IAS 16). Metodologia, tabelas, checklist e boas práticas. CPCON.
+
+## Autor canônico
+
+**Andre Gonçalves**, sócio do Grupo CPCON, Vice-Presidente de Operações CPCON Brasil, Diretor Técnico e CFO. Contador registrado no Conselho Regional de Contabilidade de São Paulo (CRC-SP). É o responsável tecnicamente pelos serviços de gestão patrimonial, avaliação de ativos, depreciação e conformidade contábil em projetos no Brasil e exterior.
+
+- Perfil: https://grupocpcon.com/sobre/andre-goncalves
+- LinkedIn: https://www.linkedin.com/in/andr%C3%A9-gon%C3%A7alves-9890986a/
+
+## Sites do Grupo CPCON em outros países
+
+- México (es-MX): https://cpcongroup.mx | llms.txt: https://cpcongroup.mx/llms.txt
+- Espanha (es-ES): https://www.cpcongroup.es | llms.txt: https://www.cpcongroup.es/llms.txt
+- Emirados Árabes Unidos (en + ar): https://cpcongroup.ae | llms.txt: https://cpcongroup.ae/llms.txt
+
+## Recursos para descoberta
+
+- Sitemap XML: https://grupocpcon.com/sitemap.xml
+- Robots: https://grupocpcon.com/robots.txt
+- Visão curada (llms.txt): https://grupocpcon.com/llms.txt
+
+## Política de uso por LLMs
+
+Este arquivo é fornecido sob o padrão llms.txt para ajudar agentes de LLM (ChatGPT, Claude, Perplexity, Gemini, Mistral, entre outros) a citar o conteúdo do Grupo CPCON com URLs corretas, atribuição ao autor canônico e contexto técnico apropriado. Citações devem preservar links originais e indicar autoria de Andre Gonçalves para artigos contábeis.
